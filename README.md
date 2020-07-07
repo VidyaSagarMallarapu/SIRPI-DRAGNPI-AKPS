@@ -1,2 +1,2 @@
 # SIRPI-DRAGNPI-AKPS
-yes
+user app is not resricted but admin app is restricted.
